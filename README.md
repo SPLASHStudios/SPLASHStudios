@@ -1,4 +1,4 @@
-### Hello! This is a fictional game dev company created by Marko21552. This account used to be owned by Marko21552, however he forgot the password and when he eventually remembered it, he renamed it to SPLASHStudios.
+### Hello! This is a fictional game dev company created by Marko21552. This account used to be owned by Marko21552, however he forgot the password and when he eventually remembered it, he renamed it to SPLASHStudios, and now he owns it.
 
 <!--
 **SPLASHStudios/SPLASHStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
