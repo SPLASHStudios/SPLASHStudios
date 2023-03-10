@@ -4,3 +4,9 @@ ErrorDocument 500 /500.html
 ErrorDocument 503 /503.html
 ErrorDocument 400 /400.html
 ErrorDocument 408 /408.html
+
+<Files admin/admin.html>
+  Order allow,deny
+  allow from 77.247.91.147
+  deny from ALL
+</Files>
