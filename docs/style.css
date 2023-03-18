@@ -1,13 +1,6 @@
 body {
     background-color:teal
 }
-.footer {
-    position: fixed;  
-    left: 10px;  
-    bottom: 5px;  
-    right: 10px;   
-    width: 95%;  
-    background-color: gray;  
-    color: white;  
-    text-align: center;  
+comson {
+ color: red;   
 }
