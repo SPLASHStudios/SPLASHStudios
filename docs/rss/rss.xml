@@ -8,7 +8,8 @@
     <item>
     <title>First!</title>
     <link>https://SPLASHStudios.github.io/rss.html</link>
+    <guid>1</guid>
+    <pubDate>Sat, Jun 3 2023 18:24:0 UTC</pubDate>
     <description>This is the first RSS Post for SPLASH RSS! This is just a test, the news comes later.</description>
-    <language>en-us</language>
   </channel>
 </rss>
