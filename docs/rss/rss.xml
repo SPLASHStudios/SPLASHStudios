@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="UTF-8">
 <rss version="2.0">
-  <
+  <channel>
+    <title>SPLASH! RSS</title>
+    <link>https://SPLASHStudios.github.io/rss.html</link>
+    <description>The RSS feed for SPLASH!, a fictional game dev company.</description>
+    <language>en-us</language>
+    <item>
+    <title>First!</title>
+    <link>https://SPLASHStudios.github.io/rss.html</link>
+    <description>This is the first RSS Post for SPLASH RSS! This is just a test, the news comes later.</description>
+    <language>en-us</language>
+  </channel>
+</rss>
